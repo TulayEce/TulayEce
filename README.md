@@ -6,7 +6,7 @@ I'm a Computer Science and Engineering student at **Sabancı University**. I am 
 - 🧩 Build software & data solutions with **C++**, **Python**, **C#/.NET**, **React Native**, and **SQL**
 - 🧰 Use **Docker**, **Git/GitLab**, and **Swagger** in end-to-end project workflows
 - 🧪 Enjoy prototyping ML/data ideas, comparing models, and shipping small, well-documented projects
-- 🧑‍💻 Leadership: (former) IEEE Sabancı University Student Branch **Computer Society President**
+- 🧑‍💻 Leadership: IEEE Sabancı University Student Branch, Former **Computer Society President**
 
 ## Featured projects
 - 🔐 **Smart Home Safety System** — event-driven IoT safety monitoring with MQTT + REST API
@@ -15,7 +15,6 @@ I'm a Computer Science and Engineering student at **Sabancı University**. I am 
 
 ## Open to
 - 🤝 **Backend / Full-stack internships**, **AI/ML internships**, and **collaboration/research** opportunities  
-  *(DevOps-curious: Docker & Git workflows)*
 
 ## How to reach me:
 - LinkedIn: www.linkedin.com/in/tülay-ece-yıldırım-student
